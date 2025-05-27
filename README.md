@@ -6,7 +6,7 @@
 <h2> Habilidades 🔭</h2>
   - Salesforce: administrador, configurações;<br>
      - Integrações: Mulesoft, Zoom, DocuSign.<br>
-  - Linguagens: LWC, Apex, JavaScript, Java, CSS, React, Node.js, SpringBoot, React, MySQL.<br>
+  - Linguagens: LWC, Apex, JavaScript, Java, CSS, React, Node.js, SpringBoot, React, MySQL, Kotlin.<br>
   - Plataformas: AWS, Azure, GitHub.<br>
   - Projetos: utilização de arduíno, scrum, UI/UX.<br>
   - Inglês avançado.<br>
